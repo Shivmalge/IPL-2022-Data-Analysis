@@ -1,5 +1,5 @@
 # IPL-2022-Data-Analysis
-###  
+###  This project is the analysis of IPL matches from 26 MARCH to 4 MAY. The dataset of IPL is downloaded from kaggle. We have analyzed and visualized the number of matches won by teams ,wining analysis of most of the team ,analysis of preffered batting or bowling after wining the toss ,the top scorers of the most matches, most man of the match award ,most runs scored ,best bowler and fall of wickets while defending or chasing.
 
 ## 1. Visualize the number of matches won by each team in IPL 2022
 
